@@ -1,0 +1,32 @@
+.container{
+    background-color: lightblue;
+    color: black;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.header{
+    background-color: lightgray;
+    color: black;
+    padding: 10px;
+    text-align: center;
+
+}
+.table{
+    border: 2px solid black;
+    align-items: center;
+    background-color: lightgray;
+    justify-content: center;
+}
+.table th, .table td{
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+}
+#1234{
+    background-color: lightgreen;
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
